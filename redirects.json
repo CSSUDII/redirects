@@ -1,0 +1,27 @@
+[
+    {
+        "path": "/",
+        "to": "cssudii.xyz",
+        "https": true
+    },
+    {
+        "path": "/github",
+        "to": "github.com/CSSUDII",
+        "https": true
+    },
+    {
+        "path": "/discord",
+        "to": "discord.com/invite/zJj2SmhvCG",
+        "https": true
+    },
+    {
+        "path": "/status",
+        "to": "status.cssudii.xyz",
+        "https": true
+    },
+    {
+        "path": "/docs",
+        "to": "docs.cssudii.xyz",
+        "https": true
+    }
+]
