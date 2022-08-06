@@ -2,5 +2,9 @@
     {
         "path": "/profile",
         "alias": "/p"
+    },
+    {
+        "path": "/profile",
+        "alias": "/pf"
     }
 ]
