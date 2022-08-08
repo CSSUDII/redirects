@@ -4,5 +4,8 @@
     },
     {
         "url": "https://cdn.jsdelivr.net/gh/CSSUDII/redirects@main/profile.redirects.json"
+    },
+    {
+        "url: "https://cdn.jsdelivr.net/gh/CSSUDII/redirects@main/projects.redirects.json"
     }
 ]
