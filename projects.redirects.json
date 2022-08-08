@@ -1,0 +1,7 @@
+[
+    {
+        "path": "/project/scan-helperd",
+        "to": "github.com/cssudii/scan-helperd",
+        "https": true
+    }
+]
